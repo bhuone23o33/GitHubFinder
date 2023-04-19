@@ -1,5 +1,5 @@
 import React from 'react'
-import UserList from '../user/userList'
+import UserList from '../user/UserList'
 import UserSearch from '../user/UserSearch'
 
 
